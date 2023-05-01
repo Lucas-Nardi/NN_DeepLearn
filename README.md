@@ -384,7 +384,7 @@ O modelo treinado possui performance de **54,7%**.
 
 ## Roboflow
 
-Link do dataset: [dataset](https://app.roboflow.com/lucas-nardi-baroni-w0bvx/animal-dataset-ehsm2/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)
+https://app.roboflow.com/lucas-nardi-baroni-w0bvx/animal-dataset-ehsm2/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
 
 ## Hagging Face
 
