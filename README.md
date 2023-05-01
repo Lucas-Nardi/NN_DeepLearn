@@ -14,3 +14,7 @@ Esse dataset foi criado na plataforma chamado roboflow.
 ## Roboflow
 
 Link do dataset: [dataset](https://app.roboflow.com/undefined/animal-dataset-ehsm2/5)
+
+## Hagging Face
+
+https://huggingface.co/Lucas-Nardi/AnimalsPredict/tree/main
