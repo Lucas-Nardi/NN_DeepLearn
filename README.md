@@ -4,7 +4,7 @@ Esse projeto tem o proposito de classifacar 4 tipos de animais: gato, cachorro, 
 São 235 imagens de treinamento, 95 imagens de teste e 9 de vaidação.
 Dos 235 imagens de treinamento, 63 imagens foram de gato, 50 de cachorro, 70 de macaco e 52 de corujas.
 
-Esse dataset foi criado na plataforma chamado roboflow.
+Esse dataset foi criado na plataforma chamada roboflow.
 ### Nome do aluno
 
 |**Tipo de Projeto**|**Modelo Selecionado**|**Linguagem**|
